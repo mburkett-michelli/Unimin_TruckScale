@@ -1,0 +1,115 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UniminTruckScale
+</name>
+</assembly>
+<members>
+<member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.InboundDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.Access_CodesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.Pit_SitesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.PitsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.Completed_TransactionsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.InboundRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.Access_CodesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.Pit_SitesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.PitsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.Completed_TransactionsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.InboundRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.Access_CodesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.Pit_SitesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.PitsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet.Completed_TransactionsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSetTableAdapters.InboundTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSetTableAdapters.Access_CodesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSetTableAdapters.Pit_SitesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSetTableAdapters.PitsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.Truck_ScaleDataSetTableAdapters.Completed_TransactionsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.SetupDataSet.SetupDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.SetupDataSet.SetupRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.SetupDataSet.SetupRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Unimin_Truck_Scale.SetupDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Unimin_Truck_Scale.SetupDataSetTableAdapters.SetupTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>

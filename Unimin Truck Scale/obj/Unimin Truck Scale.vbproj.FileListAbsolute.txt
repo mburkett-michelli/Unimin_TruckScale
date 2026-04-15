@@ -1,0 +1,53 @@
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.ErrorBox.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.GrassRootsScreen.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.List.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.MainForm.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.Resources.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.NumaricKeyBoard.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.ScaleWeight.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.SelectCompany.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.UniminScreen.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin Truck Scale.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\bin\Debug\Unimin Truck Scale.exe
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\bin\Debug\Unimin Truck Scale.pdb
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\bin\Debug\Unimin Truck Scale.xml
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.Ask.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin Truck Scale.exe
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin Truck Scale.xml
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin Truck Scale.pdb
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\bin\Debug\Setup.mdb
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\bin\Debug\Truck Scale.mdb
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\bin\Debug\Unimin Truck Scale.exe.config
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.Setup.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.Motion.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.PrintingTicket.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\bin\Release\Setup.mdb
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\bin\Release\Truck Scale.mdb
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\bin\Release\Unimin Truck Scale.exe.config
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\bin\Release\Unimin Truck Scale.exe
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\bin\Release\Unimin Truck Scale.pdb
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\bin\Release\Unimin Truck Scale.xml
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.DeliveredUniminLoad.rpt
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.Ask.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.ErrorBox.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.GrassRootsScreen.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.List.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.MainForm.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.Motion.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.Resources.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.NumaricKeyBoard.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.PrintingTicket.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.ScaleWeight.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.SelectCompany.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.Setup.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin_Truck_Scale.UniminScreen.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin Truck Scale.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin Truck Scale.exe
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin Truck Scale.xml
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Release\Unimin Truck Scale.pdb
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.GTNTicket.rpt
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.InboundTicket.rpt
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.CheckWeight.resources
+C:\Documents and Settings\Sean\My Documents\Customers\Unimin\Unimin Truck Scale\2005\Unimin Truck Scale\Unimin Truck Scale\obj\Debug\Unimin_Truck_Scale.Journal.rpt
